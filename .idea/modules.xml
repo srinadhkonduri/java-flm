@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/D22_OOPS/D22_OOPS.iml" filepath="$PROJECT_DIR$/D22_OOPS/D22_OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D49_streams/D49_streams.iml" filepath="$PROJECT_DIR$/D49_streams/D49_streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-flm.iml" filepath="$PROJECT_DIR$/.idea/java-flm.iml" />
+    </modules>
+  </component>
+</project>
